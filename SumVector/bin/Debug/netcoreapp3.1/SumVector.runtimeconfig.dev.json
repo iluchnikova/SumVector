@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Samsung-PC\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Samsung-PC\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKt7lVjDAxUJOtFI0oHjdUJBvYGEPqeI0uqNBl6LV5oyBvYDddP84CrAJ4PqsZcXB1IqUsnNMwOHXMqN39qdQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung-PC\\source\\repos\\SumVector\\SumVector\\SumVector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung-PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

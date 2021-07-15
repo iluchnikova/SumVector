@@ -1,0 +1,14 @@
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\obj\Debug\netcoreapp3.1\SumVector.csprojAssemblyReference.cache
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\obj\Debug\netcoreapp3.1\SumVector.AssemblyInfoInputs.cache
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\obj\Debug\netcoreapp3.1\SumVector.AssemblyInfo.cs
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\obj\Debug\netcoreapp3.1\SumVector.csproj.CoreCompileInputs.cache
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\bin\Debug\netcoreapp3.1\SumVector.exe
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\bin\Debug\netcoreapp3.1\SumVector.deps.json
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\bin\Debug\netcoreapp3.1\SumVector.runtimeconfig.json
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\bin\Debug\netcoreapp3.1\SumVector.runtimeconfig.dev.json
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\bin\Debug\netcoreapp3.1\SumVector.dll
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\bin\Debug\netcoreapp3.1\SumVector.pdb
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\obj\Debug\netcoreapp3.1\SumVector.dll
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\obj\Debug\netcoreapp3.1\SumVector.pdb
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\obj\Debug\netcoreapp3.1\SumVector.genruntimeconfig.cache
+C:\Users\Samsung-PC\source\repos\SumVector\SumVector\obj\Debug\netcoreapp3.1\SumVector.csproj.ResolveComReference.cache
